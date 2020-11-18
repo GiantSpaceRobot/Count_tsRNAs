@@ -6,7 +6,7 @@ A small pipeline for the quantification of tsRNAs in small/miRNA-seq datasets
 * Install trim_galore, STAR, featureCounts
 * Run pipeline:
 ```
-./RunAll.sh PathToDir &> Log1.log &> Log2.log &
+./RunAll.sh Path-To-FASTQ-Dir &> Log1.log &> Log2.log &
 ```
 
 ## Contributors
